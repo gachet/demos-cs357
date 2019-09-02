@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Python Introduction: A few more things
@@ -11,7 +11,7 @@
 
 
 a = [1,2,3]
-get_ipython().magic('pinfo a')
+get_ipython().run_line_magic('pinfo', 'a')
 
 
 # 2) Using `pydoc3` on the command line.

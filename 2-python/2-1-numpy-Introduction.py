@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # numpy: Introduction
@@ -28,13 +28,13 @@ if n <= 10:
 # In[ ]:
 
 
-get_ipython().magic('timeit [i**2 for i in a1]')
+get_ipython().run_line_magic('timeit', '[i**2 for i in a1]')
 
 
 # In[ ]:
 
 
-get_ipython().magic('timeit a2**2')
+get_ipython().run_line_magic('timeit', 'a2**2')
 
 
 # Numpy Arrays: much less flexible, but:
@@ -151,6 +151,12 @@ A.dtype
 # Other `dtype`s include `np.complex64`, `np.int32`, ...
 
 # ## Iclicker question
+
+# In[ ]:
+
+
+
+
 #clear
 A) c = [ 6 40 45]
 B) c = [ 6 1000  225]
@@ -315,6 +321,12 @@ print(C)
 
 
 # ## Iclicker question
+
+# In[ ]:
+
+
+
+
 #clear
  A) [[2 3]
      [2 6]]

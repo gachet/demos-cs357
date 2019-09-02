@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Python Introduction: Indexing
@@ -105,4 +105,22 @@ print(a[3])
 
 a = "CS357"
 a[-3:]
+
+
+# In[15]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 

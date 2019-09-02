@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Objects and Naming
@@ -79,8 +79,20 @@ print(food_tuple)
 # In[ ]:
 
 
+
+
+
+# In[ ]:
+
+
 Anna = ['electrical']
 Julie = Anna
 Julie += ['physics']
 print(Anna)
+
+
+# In[ ]:
+
+
+
 

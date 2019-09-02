@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Cost of Mat Mat multiply
@@ -9,7 +9,7 @@
 import numpy as np
 import numpy.linalg as la
 import matplotlib.pyplot as pt
-get_ipython().magic('matplotlib inline')
+get_ipython().run_line_magic('matplotlib', 'inline')
 from time import process_time
 
 def get_solve_time(n):
@@ -51,3 +51,9 @@ pt.grid()
 # * Can we predict individual values?
 # * What does the overall behavior look like?
 # * How could we determine the "underlying" function?
+
+# In[ ]:
+
+
+
+

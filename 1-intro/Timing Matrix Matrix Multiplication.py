@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # In[ ]:
@@ -40,4 +40,10 @@ print(t2)
 
 
 t2/t
+
+
+# In[ ]:
+
+
+
 

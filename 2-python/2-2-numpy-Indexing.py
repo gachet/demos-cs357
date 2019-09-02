@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # numpy: Indexing
@@ -47,6 +47,18 @@ A[:,[0,2]]
 
 
 # ## Iclicker questions
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
 #clear
 Select the correct output:
 
@@ -56,7 +68,19 @@ B) <class 'float'>
 
 C) <class 'numpy.int64'>
 
-D) <class 'numpy.float64'>#clear
+D) <class 'numpy.float64'>
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+#clear
 Select the correct output:
 
  A) [[ 8  3 18]
@@ -127,6 +151,12 @@ print(a)
 
 
 # ## iclicker question
+
+# In[6]:
+
+
+
+
 #clear
 What is the output of print(A)?
 

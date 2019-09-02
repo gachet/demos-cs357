@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Python Introduction: Types
@@ -101,4 +101,10 @@ type([5,3,7])
 import numpy as np
 
 np.array([1,2,3]) * 4 + np.array([5,5,5])
+
+
+# In[ ]:
+
+
+
 

@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Objects in Python
@@ -96,9 +96,21 @@ print("Total employee number = ",Employee.empCount)
 
 # What is the output of the following code snippet?
 
+# In[9]:
+
+
+
+
+
 # 
 # * a) Error message, because the function Change can't be called in the `__init__` function
 # 
 # * b) 'Old'
 # 
 # * c) 'New'
+
+# In[ ]:
+
+
+
+

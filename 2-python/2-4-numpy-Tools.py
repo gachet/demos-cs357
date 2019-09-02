@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # numpy: Tools
@@ -14,7 +14,7 @@
 
 import numpy as np
 import matplotlib.pyplot as pt
-get_ipython().magic('matplotlib inline')
+get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # In[ ]:

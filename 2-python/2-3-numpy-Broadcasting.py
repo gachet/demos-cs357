@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # numpy: Broadcasting
@@ -100,6 +100,18 @@ a+c
 # * A length-1 axis can be *broadcast* if necessary.
 
 # ## Iclicker question
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
 #clear
 Mark the correct output for print(B + np.dot(A,c))
 
@@ -114,3 +126,9 @@ Mark the correct output for print(B + np.dot(A,c))
 
 # D) [[11 13]
 #     [9  9]]
+
+# In[ ]:
+
+
+
+

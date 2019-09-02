@@ -1,13 +1,31 @@
-
+#!/usr/bin/env python
 # coding: utf-8
 
 # # Python Introduction: Names and Values
 
 # Define and reference a variable:
 
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
 # No type declaration needed!
 # 
 # (But values still have types--let's check.)
+
+# In[ ]:
+
+
+
+
 
 # Everything in python is an object. Python variables are like *pointers*.
 # 
@@ -25,9 +43,39 @@ a = [1,2,3]
 b = a
 
 
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
 # You can see this pointer with `id()`.
 
+# In[ ]:
+
+
+
+
+
 # The `is` operator tests for object sameness.
+
+# In[ ]:
+
+
+
+
 
 # This is a **stronger** condition than being equal!
 
@@ -84,6 +132,12 @@ a[2] = 0
 print(a)
 
 
+# In[ ]:
+
+
+
+
+
 # Let's try to change that tuple.
 
 # In[ ]:
@@ -94,6 +148,12 @@ a[2] = 0
 
 
 # *Bonus question:* How do you spell a single-element tuple?
+
+# In[ ]:
+
+
+
+
 
 # String is also immutable type. 
 
