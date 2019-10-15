@@ -5,3 +5,5 @@ dependencies:
   - matplotlib
   - sympy
   - seaborn
+  - ffmpeg
+  - pygraphviz
