@@ -31,6 +31,15 @@ make_graph_adj_random(4)
 # 
 # Write the adjacency matrix A of the above graph:
 
+# In[ ]:
+
+
+A = np.array([[0,0,0,0],
+              [0,0,0,0],
+              [0,0,0,0],
+              [0,0,0,0]])
+
+
 # You can call the helper function:
 # ```python    
 # graph.graph_matrix(mat, mat_label=None, show_weights=True, round_digits=3)

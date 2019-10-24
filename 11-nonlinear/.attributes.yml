@@ -1,0 +1,7 @@
+unenrolled:
+- "*.ipynb"
+- "*.py"
+- "*.html"
+- "*.gif"
+- "*.jpeg"
+- "*.png"
