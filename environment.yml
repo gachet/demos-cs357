@@ -1,9 +1,0 @@
-dependencies:
-  - python
-  - numpy
-  - scipy
-  - matplotlib
-  - sympy
-  - seaborn
-  - ffmpeg
-  - pygraphviz
