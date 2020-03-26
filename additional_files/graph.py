@@ -1,5 +1,5 @@
 import numpy as np
-import graphviz
+import pygraphviz
 import IPython.display as display
 
 
