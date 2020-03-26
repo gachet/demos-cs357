@@ -2,7 +2,7 @@ import numpy as np
 import pygraphviz
 import IPython.display as display
 
-import pygraphviz
+import graphviz
 import IPython.display as display
 
 
