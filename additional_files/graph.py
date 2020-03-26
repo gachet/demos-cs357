@@ -1,9 +1,7 @@
 import numpy as np
-import pygraphviz
-import IPython.display as display
-
 import graphviz
 import IPython.display as display
+
 
 
 def graph_matrix(mat, mat_label=None, show_weights=True, round_digits=3):
